@@ -12,4 +12,12 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b
+
+def length_of_string(test_string):
+    return len(test_string)
     
+
+
+
+
+
