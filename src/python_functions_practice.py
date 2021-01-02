@@ -23,7 +23,7 @@ def add_string_as_number(a, b):
     number_1 = int(a)
     number_2 = int(b)
     return number_1 + number_2
-    
+
 
 
 
